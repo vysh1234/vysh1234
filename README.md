@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Vaishnavi 
 - 👀 I’m interested in programming 
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning .Net full stack
 - 💞️ I’m looking to collaborate on new people
 - 📫 How to reach me vaishuvinzam08@gmail.com
 
